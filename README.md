@@ -27,7 +27,7 @@ seaborn
 ### Identificação do Curso com Maior Número de Vendas:
 
 
-###Visualização de Dados:
+### Visualização de Dados:
 
 Gráfico de barras mostrando a quantidade de vendas por data.
 
