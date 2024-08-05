@@ -14,10 +14,10 @@ Visualização de Dados: Cria gráficos de barras para mostrar a quantidade de v
 
 ## Requisitos
 
-Python 3.x
-pandas
-matplotlib
-seaborn
+Python 3.x\
+pandas\
+matplotlib\
+seaborn\
 
 ## Exploração de Dados:
 
