@@ -19,6 +19,31 @@ pandas\
 matplotlib\
 seaborn
 
+## Você pode instalar essas dependências usando o seguinte comando:
+
+```bash
+pip install pandas matplotlib seaborn
+```
+
+### Executando o Código:
+
+### Clone o repositório para o seu ambiente local:
+
+```bash
+git clone https://github.com/Wencel15/insight-basico-python.git
+cd insight-basico-python
+```
+
+### Certifique-se de que o arquivo de dados dados.csv esteja localizado no diretório especificado no código:
+
+O caminho atual para o arquivo de dados no código é:
+
+```makefile
+C:\Users\User\Documents\Dados Codigo Certo\dados.csv
+```
+Se necessário, modifique o caminho no código para apontar para a localização correta do arquivo de dados no seu sistema.
+
+
 ## Exploração de Dados:
 
 ### Cálculo de Estatísticas Descritivas como: média, mediana, mínimo, máximo e desvio padrão.
@@ -34,4 +59,3 @@ Gráfico de barras mostrando a quantidade de vendas por data.
 Gráfico de barras mostrando a receita total por curso.
 
 Gráfico de barras mostrando a quantidade total vendida por curso.
-
