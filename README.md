@@ -21,12 +21,11 @@ seaborn\
 
 ## Exploração de Dados:
 
-### Cálculo de Estatísticas Descritivas como: média, mediana, mínimo, máximo e desvio padrão
+### Cálculo de Estatísticas Descritivas como: média, mediana, mínimo, máximo e desvio padrão.
 
-### Cálculo da Receita Total considerando as vendas no periodo
+### Cálculo da Receita Total considerando as vendas no periodo.
 
-### Identificação do Curso com Maior Número de Vendas:
-
+### Identificação do Curso com Maior Número de Vendas.
 
 ### Visualização de Dados:
 
