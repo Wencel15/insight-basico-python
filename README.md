@@ -18,23 +18,14 @@ pandas
 matplotlib
 seaborn
 
+## Exploração de Dados:
 
+### Cálculo de Estatísticas Descritivas como: média, mediana, mínimo, máximo e desvio padrão
 
-### Exploração de Dados:
-
-As primeiras linhas e informações básicas do conjunto de dados são exibidas.
-
-### Cálculo de Estatísticas Descritivas:
-
-Estatísticas como média, mediana, mínimo, máximo e desvio padrão são calculadas para as colunas "Preço Unitário" e "Quantidade de Vendas".
-
-### Cálculo da Receita Total:
-
-Calcula a receita total multiplicando a quantidade de vendas pelo preço unitário e exibe o valor.
+### Cálculo da Receita Total considerando as vendas no periodo
 
 ### Identificação do Curso com Maior Número de Vendas:
 
-Identifica o curso com o maior número de vendas e exibe o nome e a quantidade de vendas.
 
 ###Visualização de Dados:
 
