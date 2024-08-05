@@ -10,14 +10,14 @@ Exploração de Dados: Exibe informações básicas do conjunto de dados, como n
 Estatísticas Descritivas: Calcula e exibe estatísticas básicas para colunas numéricas, incluindo média, mediana, mínimo, máximo e desvio padrão.\
 Cálculo de Receita Total: Calcula a receita total gerada pela venda dos cursos.\
 Identificação do Curso com Maior Número de Vendas: Identifica e exibe o curso com o maior número de vendas.\
-Visualização de Dados: Cria gráficos de barras para mostrar a quantidade de vendas por data e a receita total por curso.\
+Visualização de Dados: Cria gráficos de barras para mostrar a quantidade de vendas por data e a receita total por curso.
 
 ## Requisitos
 
 Python 3.x\
 pandas\
 matplotlib\
-seaborn\
+seaborn
 
 ## Exploração de Dados:
 
