@@ -1,6 +1,7 @@
 # Análise de Dados de Vendas de Cursos
 
-Este projeto realiza uma análise básica dos dados de vendas de cursos usando Python. Utiliza as bibliotecas pandas, matplotlib e seaborn para carregar, explorar, e visualizar dados.
+Este projeto realiza uma análise básica dos dados de vendas de cursos usando Python.\
+Utiliza as bibliotecas pandas, matplotlib e seaborn para carregar, explorar, e visualizar dados.
 
 ## Funcionalidades
 
