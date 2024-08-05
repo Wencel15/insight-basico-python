@@ -32,3 +32,6 @@ seaborn
 Gráfico de barras mostrando a quantidade de vendas por data.
 
 Gráfico de barras mostrando a receita total por curso.
+
+Gráfico de barras mostrando a quantidade total vendida por curso.
+
